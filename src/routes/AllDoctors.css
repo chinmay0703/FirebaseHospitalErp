@@ -1,0 +1,12 @@
+.table-scrollable {
+    overflow-x: auto;
+    max-width: 100%;
+  }
+  /* AllDoctors.css */
+.table-container {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  
+  /* Add any other styles you need */
+  

@@ -1,0 +1,10 @@
+.table-scrollable {
+    overflow-x: auto;
+    max-width: 100%;
+  }
+
+.table-container {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  
